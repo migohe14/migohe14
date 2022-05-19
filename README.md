@@ -9,7 +9,7 @@ Code != Law
 ### Tech stack
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,angular,nodejs,mongodb,firebase,wasm,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,angular,nodejs,mongodb,firebase,git,vscode)](https://skillicons.dev)
 
 <br>
 <br>
