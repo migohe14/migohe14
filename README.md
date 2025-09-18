@@ -14,10 +14,6 @@ Code != Law
 <br>
 <br>
 
-[![Migohe14's GitHub stats](https://github-readme-stats.vercel.app/api?username=migohe14)](https://github.com/migohe14/github-readme-stats)
-
-<br>
-<br>
 
 📫 How to reach me: 
 <br>
